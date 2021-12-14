@@ -24,3 +24,9 @@
 6.函式與模組
 * 檔名：p06
 * 操作：函式宣告、區域與全域變數及預設函式與模組的操作
+
+7.linebot
+* 圖片資料夾﹔linebot
+* 操作﹔linebot
+
+![linebot](https://github.com/yuyapatty/Python_test_program/blob/master/linebot/bottestQRcode.png?raw=true)
